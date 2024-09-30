@@ -1,0 +1,47 @@
+
+body {
+    font-family: 'EB Garamond', serif;
+    font-weight: 500;
+    font-size: 18px;
+    background-color: #fde3fc;
+}
+
+
+
+.header-title {
+    font-family: 'Inter', sans-serif;
+    box-sizing: border-box;
+    margin: auto;
+    text-align: center;
+    width: 350px;
+    padding-bottom: 30px;
+    padding-left: 50px;
+}
+
+.main-text {box-sizing: border-box;
+    width: 300px;
+    margin: auto;
+    padding-left: 50px;
+    padding-bottom: 16px;
+}
+
+.footer {box-sizing: border-box;
+    font-size: 14px;
+    width: 300px;
+    margin: auto;
+    padding-left: 50px;
+    padding-bottom: 50px;
+    text-align: right;
+    color: #62757B;
+}
+
+
+.end-text {box-sizing: border-box;
+    font-size: 16px;
+    width: 300px;
+    margin: auto;
+    padding-left: 50px;
+    padding-bottom: 0;
+    text-align: center;
+    color: #521d05d3;
+}
